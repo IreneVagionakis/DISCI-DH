@@ -65,7 +65,7 @@
 * Progetti DH Fondazione Bruno Kessler: https://dh.fbk.eu/category/projects/ 
 * Progetti Stanford Literary Lab (cf. Distant Reading): https://litlab.stanford.edu/
 
-## Standard, vocabolari condivisi _et sim._
+## Standard, [vocabolari](https://www.w3.org/standards/semanticweb/ontology) condivisi _et sim._
 * Dublin Core Metadata Initiative: https://dublincore.org/
 * CIDOC Conceptual Reference Model (CRM): http://www.cidoc-crm.org/
 * Text Encoding Initiative (TEI): https://tei-c.org/
