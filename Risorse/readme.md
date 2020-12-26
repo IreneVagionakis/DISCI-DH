@@ -19,7 +19,7 @@
 * Pelagios - Recogito: https://recogito.pelagios.org/
 	* Es. https://pro.europeana.eu/page/issue-12-pelagios 
 
-* Riconoscimento OCR dei testi nelle riproduzioni fotografiche di documenti (o tramite tecnologie AI), per poi passare ad annotazione semantica di documenti TEI (v. supra)
+* Riconoscimento OCR dei testi nelle riproduzioni fotografiche di documenti (o tramite tecnologie AI), per poi passare ad annotazione semantica di documenti TEI (v. _supra_)
 	* Es. Venice Time Machine http://www.archiviodistatovenezia.it/web/index.php?id=246
 
 ### Visualizzazione dei dati tramite carte geografiche, linee temporali, grafici, gallerie di immagini
@@ -46,7 +46,7 @@
 * Scalar: https://scalar.me/anvc/scalar/showcase/ 
 
 ### Strumenti di digital publishing XML, per collezioni di documenti
-* TEI Publisher, Kiln, EFES (v. supra)
+* TEI Publisher, Kiln, EFES (v. _supra_)
 
 ### Strumenti per la pubblicazione online di datasets in open access
 * Zenodo: https://zenodo.org/ 
